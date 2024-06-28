@@ -1,0 +1,8 @@
+@media (min-width: 1025px) {
+    .h-custom {
+        height: 100vh !important;
+    }
+}
+.h-custom .card .card-body .fa-2x   {
+    margin-left: 10px;
+}
